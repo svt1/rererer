@@ -1,0 +1,45 @@
+{
+  "ProjectName": "KendoDrawerCordova",
+  "ProjectGuid": "e8b85afb-0c6c-4070-8e9d-971a9baecb64",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.KendoDrawerCordova",
+  "DisplayName": "KendoDrawerCordova",
+  "Author": "",
+  "Description": "KendoDrawerCordova",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{5e2853b4-5973-48c4-a57c-6392c93e42db}",
+  "WP8ProductID": "{7df55e86-3535-49fc-a0cd-d19f1b4ccaf0}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.KendoDrawerCordova",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
